@@ -1,0 +1,14 @@
+This is a project for rendering 3D volume sampled data. Main entry is in the folder "Creator".
+
+
+Instruction: the project can be compiled and run under Linux terminal as the following:
+1. under terminal, go to directory "Creator".
+
+2. use command:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:../lib
+make
+
+3. the project can be run as ./main inputFile outputFile, for example:
+./main basic0.txt foot.png
+
+4. the image should be produced in the directory

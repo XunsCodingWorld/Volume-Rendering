@@ -1,0 +1,8 @@
+background 0.0 0.7 0.7
+eye 255 -255 255
+center 127.5 127.5 127.5
+up 0 0 1
+PPWindowSize 270 270
+resolution 512 512
+rayProcessingSpecs MAX STEPSIZE 0.5 $
+xyzVoxelVertices 255 255 255 256 256 256 /home/miller/RayTrace/volvisdata/skull.raw

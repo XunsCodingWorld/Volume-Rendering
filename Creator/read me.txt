@@ -1,0 +1,10 @@
+
+
+1. make the file
+2. lauchable as "./main input output"
+
+
+the ray function I implemented include three modes "AVERAGE, ACCUMRGB_ADD_BACKGROUND and MAX"
+
+
+
